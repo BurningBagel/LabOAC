@@ -3,8 +3,8 @@ Repositório do Grupo x0
 
 Brandon Araújo Dias			@wararray
 
-Jader Martins						@
+Jader Martins           @
 
-João Marcos							@
+João Marcos             @
 
-Luíz Duarte							@
+Luíz Duarte             @
